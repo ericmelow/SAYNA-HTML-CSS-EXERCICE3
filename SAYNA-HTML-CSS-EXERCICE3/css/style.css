@@ -1,0 +1,12 @@
+:root{
+    --couleurbg: #27242b;
+}
+
+
+header{
+    background-color: var(--couleurbg);
+}
+
+body{
+    background-color: var(--couleurbg);
+}
