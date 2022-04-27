@@ -1,5 +1,7 @@
 :root{
     --couleurbg: #27242b;
+    --bs-white: #fff;
+    --bs-gray: #9fa5aa;
 }
 
 
@@ -10,3 +12,11 @@ header{
 body{
     background-color: var(--couleurbg);
 }
+#social-media{
+    background-color: var(--bs-gray)
+}
+#checknew{
+    background-color: var(--bs-white);
+}
+
+
