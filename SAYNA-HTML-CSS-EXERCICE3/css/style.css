@@ -18,5 +18,16 @@ body{
 #checknew{
     background-color: var(--bs-white);
 }
-
+#shot{
+    background-color: var(--bs-gray);
+}
+#tested-responsive{
+    background-color: var(--bs-white); 
+}
+#footer{
+    background-color: #9fa5aa;
+}
+#footer-bottom{
+    background-color: var(--bs-white);
+}
 
